@@ -1,4 +1,4 @@
-# torres-chahuin-orellana PMV1 y pmv2
+# torres-chahuin-orellana PMV1; pmv2; pmv3
 ### Equipo
 - Torres de la cruz jhon
 - orellana marcas alan
